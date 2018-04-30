@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+<user category="1">
+	<username>bob</username>
+	<password>bob</password>
+	<service>McGill</service>
+</user>
+<user category="2">
+	<username>mary</username>
+	<password>mary</password>
+	<service>hp</service>
+</user>
+</Users>

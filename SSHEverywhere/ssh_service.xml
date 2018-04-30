@@ -1,0 +1,12 @@
+<Service>
+<name category="McGill">
+	<ip>mimi.cs.mcgill.ca</ip>
+	<username>jdjame</username>
+	<password>G00dlyfe!</password>
+</name>
+<name category="hp">
+	<ip>baddie-HP-Notebook</ip>
+	<username>baddie</username>
+	<password>UBUNTU</password>
+</name>
+</Service>
